@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/bin/ar qc ../lib/libdef_verilog.a CMakeFiles/def_verilog.dir/defout.cpp.o CMakeFiles/def_verilog.dir/group_manager.cpp.o CMakeFiles/def_verilog.dir/net_group.cpp.o CMakeFiles/def_verilog.dir/verilogout.cpp.o
+/opt/rh/devtoolset-9/root/bin/ranlib ../lib/libdef_verilog.a

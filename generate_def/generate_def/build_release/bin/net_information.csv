@@ -1,0 +1,4 @@
+layername,netnumber,width(nm),length(nm),spacing,leftx,belowy,"direction (vertical :0,horizontal:1)"
+2,3,32,10000,32,0,0,0
+3,3,32,10000,32,0,0,0
+2,3,32,10000,32,300,300,1

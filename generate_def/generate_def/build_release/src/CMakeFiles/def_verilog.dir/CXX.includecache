@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/net.h
+string
+-
+
+../include/net_group.h
+list
+-
+string
+-
+net.h
+../include/net.h
+
+/home/yongqi/workspace/generate_def/src/net_group.cpp
+net_group.h
+/home/yongqi/workspace/generate_def/src/net_group.h
+
